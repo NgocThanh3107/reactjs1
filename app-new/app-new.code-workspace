@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "D:/xampp/htdocs/laravel8/laravel8"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "app-new"
+	}
+}
